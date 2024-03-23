@@ -1,5 +1,5 @@
 "# tic-tac-react" 
-
+![Tic tac toe screenshot](./public/Screenshot.png)
 
 Tic Tac React is a simple tic-tac-toe game written using JS and JSX React.
 
